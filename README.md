@@ -143,3 +143,7 @@ Controls implemented:
 * No unit tests included — consider extracting pure game logic (model) and adding JUnit tests.
 * Accessibility: consider large fonts / keyboard-only navigation improvements.
 * UX: add a restart button, undo / persistent high scores, animations.
+
+## Deployed Application
+Download runnable desktop version: [2048-game.jar](https://drive.google.com/file/d/1ZPyjskG49ehv_3xjqnJLfQEf7XsnBK49/view?usp=sharing)
+
